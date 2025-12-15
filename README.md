@@ -16,7 +16,6 @@ It demonstrates client side form validation for email and password fields with r
 
 Login-Form/
 
-|
 |--- index.html
 
 |--style.css
